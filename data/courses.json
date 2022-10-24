@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "course_name":"Vanilla Javascript",
+        "cost":100 ,
+        "details":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices. 
+
+        JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM). ",
+        "image":"https://res.cloudinary.com/practicaldev/image/fetch/s--WGXoQbsM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAr8AAAAJGUxMTdlYzM4LWZmNmEtNGZiNi05Mjc0LTc1ODQ0MWZmYzU4Nw.png"
+    },
+    {
+        "id":2,
+        "course_name":"CSS",
+        "cost": 50,
+        "details":" Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+        CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"
+    },
+    {
+        "id":3,
+        "course_name":"Bootstrap 5",
+        "cost":50 ,
+        "details":"Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages (as opposed to web apps). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project. As such, the primary factor is whether the developers in charge find those choices to their liking. Once added to a project, Bootstrap provides basic style definitions for all HTML elements. The result is a uniform appearance for prose, tables and form elements across web browsers. In addition, developers can take advantage of CSS classes defined in Bootstrap to further customize the appearance of their contents. For example, Bootstrap has provisioned for light- and dark-colored tables, page headings, more prominent pull quotes, and text with a highlight. ",
+        "image":"https://blog.getbootstrap.com/assets/img/2020/06/v5-new-logo.png"
+    },
+    {
+        "id":4,
+        "course_name":"React JS",
+        "cost": 100,
+        "details":"React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png"
+    },
+    {
+        "id":5,
+        "course_name":"Angular JS",
+        "cost": 100,
+        "details":"AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations. It aimed to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in web applications and progressive web applications.
+
+        AngularJS was used as the frontend of the MEAN stack, that consisted of MongoDB database, Express.js web application server framework, AngularJS itself (or Angular), and Node.js server runtime environment. ",
+        "image":"https://acquven.com/blog/02/images/angular.jpg"
+    },
+    {
+        "id":6,
+        "course_name":"Vue JS",
+        "cost": 100,
+        "details":" Vue.js features an incrementally adaptable architecture that focuses on declarative rendering and component composition. The core library is focused on the view layer only.[4] Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages.[12]
+
+        Vue.js allows for extending HTML with HTML attributes called directives.[13] The directives offer functionality to HTML applications, and come as either built-in or user defined directives.",
+        "image":"https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png"
+    },
+]
